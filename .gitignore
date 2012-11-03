@@ -10,5 +10,6 @@ autodoc
 doc
 .lein-deps-sum
 .lein-env
+.lein-plugins
 target
 checkouts
